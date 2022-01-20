@@ -2,7 +2,7 @@
 Clone this repository
 
 # Next install all package
-npm install
+`npm install`
 
 # Run the project
-npm start
+`npm start`
